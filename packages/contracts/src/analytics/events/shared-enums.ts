@@ -217,6 +217,7 @@ export type TrackingCliProviderId =
   | 'reasonix'
   | 'mimo'
   | 'atomcode'
+  | 'minimax_code'
   | 'deepseek'
   | 'deepseek_harness'
   | 'amr'
